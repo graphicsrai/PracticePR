@@ -71,7 +71,7 @@ export default function Products() {
         <>
           <h2
             style={{
-              backgroundColor: "yellow",
+              backgroundColor: "skyblue",
               width: "300px",
               margin: "10px auto",
               borderRadius: "5px",
