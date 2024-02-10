@@ -24,3 +24,4 @@ yarn-error.log*
 
 src/pages/password.txt
 src/temp/*.tmp
+src/components/major.txt
