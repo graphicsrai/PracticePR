@@ -46,7 +46,7 @@ export default function Products() {
           </Card.Body>
           <Card.Footer>
             <Button
-              variant="info"
+              variant="success"
               style={{ color: "white" }}
               onClick={() => addToCart(item)}
             >
@@ -67,11 +67,11 @@ export default function Products() {
 
   return (
     <>
-      <div className="container">
+      <div className="container-fuild bg-info">
         <>
           <h2
             style={{
-              backgroundColor: "yellow",
+              backgroundColor: "",
               width: "300px",
               margin: "10px auto",
               borderRadius: "5px",
