@@ -67,11 +67,11 @@ export default function Products() {
 
   return (
     <>
-      <div className="container-fuild bg-info">
+      <div className="container bg-black">
         <>
           <h2
             style={{
-              backgroundColor: "",
+              backgroundColor: "skyblue",
               width: "300px",
               margin: "10px auto",
               borderRadius: "5px",
