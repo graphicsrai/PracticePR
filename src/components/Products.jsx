@@ -67,7 +67,7 @@ export default function Products() {
 
   return (
     <>
-      <div className="container">
+      <div className="container bg-black">
         <>
           <h2
             style={{
