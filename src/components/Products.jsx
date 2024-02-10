@@ -46,7 +46,7 @@ export default function Products() {
           </Card.Body>
           <Card.Footer>
             <Button
-              variant="info"
+              variant="success"
               style={{ color: "white" }}
               onClick={() => addToCart(item)}
             >
