@@ -70,8 +70,8 @@ export default function Products() {
       <div className="container">
         <>
           <h2
+            className="bg-success text-light"
             style={{
-              backgroundColor: "skyblue",
               width: "300px",
               margin: "10px auto",
               borderRadius: "5px",
